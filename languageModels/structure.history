@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="y2y4" modelUID="r:47756aa8-7bff-479d-9db4-a5042f7aba5d(com.hpay.java.template.structure)" version="-1" />
+    </dependencies>
+    <rename id="y2y4.2742547263643916519" type="CONCEPT" from="AbstractExpressMacro" to="AbstractExprMacro" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="y2y4" modelUID="r:47756aa8-7bff-479d-9db4-a5042f7aba5d(com.hpay.java.template.structure)" version="0" />
+    </dependencies>
+    <rename id="y2y4.2742547263643858004" type="CONCEPT" from="PropertyExpressionMacro" to="PropertyExprMacro" />
+  </StructureModification>
+</history>
+
